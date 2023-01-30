@@ -2,7 +2,7 @@
 
 .navbar {
   padding: 2rem;
-  background-color: #507194;
+  background-color: #363666;
 }
 
 .navbar-collapse {
@@ -217,7 +217,7 @@ h1 {
   font-weight: bold;
 }
 
-/* Testimonios */
+/* Tecnologias */
 
 .testimonios {
   padding: 40px 40px 80px 40px;
@@ -281,7 +281,7 @@ h1 {
 
 .contacto .rectangulo {
   margin-top: -5rem;
-  background-color: rgb(13, 110, 253);
+  background-color: rgb(32, 57, 94);
   border-radius: 10px;
   box-shadow: 0px 1px 4px 1px white;
 }
